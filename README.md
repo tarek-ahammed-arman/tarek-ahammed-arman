@@ -108,5 +108,5 @@ DOI: https://doi.org/10.1109/ACCESS.2023.3328536
 
 ## Connect
 
-* **LinkedIn:** [[LinkedIn URL]](https://www.linkedin.com/in/tarek-ahammed-arman/)
+* **LinkedIn:** https://www.linkedin.com/in/tarek-ahammed-arman/
 
