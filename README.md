@@ -110,5 +110,5 @@ DOI: https://doi.org/10.1109/ACCESS.2023.3328536
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tarek-ahammed-arman/)
 
-- - **Portfolio:** [LinkedIn](https://tarekahammedarman.com/)
+- **Portfolio:** [LinkedIn](https://tarekahammedarman.com/)
 
